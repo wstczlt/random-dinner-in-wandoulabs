@@ -1,0 +1,1 @@
+Login failed, Set LDAP user info config file, first line is ladp user, second line is ldap password, default is ./.fanconfig
